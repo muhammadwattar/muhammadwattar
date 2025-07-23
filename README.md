@@ -1,4 +1,8 @@
-# Hi there, I'm Muhammed Wattar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" alt="hello" />
+</p>
+
+<h1 align="center">Muhammed Wattar</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
@@ -36,5 +40,4 @@
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+<!--ENDS_HERE_QU
