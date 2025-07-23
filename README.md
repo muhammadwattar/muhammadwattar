@@ -1,20 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" alt="hello" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIzbnk3bzlrZ2F3MnJjdWlyeGVyZHVjYTBjNWpiMTB3c2Vwc3ZqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </p>
 
 <h1 align="center">👋 Muhammed Wattar</h1>
 
 <p align="center">
-  <b>Unity Game Developer | C# Learner | Content Creator</b>
+  <b> Game Developer | Software Developer  | C# Learner | Content Creator</b>
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/muhammad-wattar-a8b830376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>   
-  <a href="https://t.me/yourtelegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="mailto:muhammadwattar@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
