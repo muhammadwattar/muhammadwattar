@@ -2,13 +2,27 @@
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif" alt="hello" />
 </p>
 
-<h1 align="center">Muhammed Wattar</h1>
+<h1 align="center">👋 Muhammed Wattar</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-  <a href="https://www.instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="30" /></a>&nbsp;
-  <a href="https://discord.com/users/your-discord-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="30" width="30" /></a>&nbsp;
+  <b>Unity Game Developer | C# Learner | Content Creator</b>
 </p>
+
+<p align="center">
+    <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>   
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 ---
 
@@ -20,13 +34,25 @@
 
 ---
 
-### 🧰 Tools & Technologies I Use:
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60"/>
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+
+
+### 🧰 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/VS%20Code-003366?style=flat-square&logo=visual-studio&logoColor=white" alt="VS Code"/>
+</p>
+
+
+
+
+
+
+
+
 
 ---
 
