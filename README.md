@@ -22,7 +22,6 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/>
 </p>
 
 ---
@@ -39,4 +38,3 @@
 • <i>"Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
