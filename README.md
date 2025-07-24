@@ -21,10 +21,10 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🎮 I'm a Unity game developer.
 - 💻 Currently learning **C#** – my main programming language.
+- 🎮 I'm a game developer.
+- 🛠️ I also develop programs alongside game development.
 - 🧠 Passionate about object-oriented programming and clean code.
-- 🚀 My goal is to become a professional game developer.
 
 ---
 
